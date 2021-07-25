@@ -1,0 +1,87 @@
+body{
+  text-align: center;
+  margin: 0;
+}
+
+.container-fluid{
+  margin: 0;
+  padding: 0;
+}
+
+.begin{
+  background-color: #88FFF7;
+  padding: 5% 0;
+  margin: 0;
+}
+h1{
+font-family: 'Righteous', cursive;
+font-size: 4rem;
+margin-top: 0;
+
+}
+.about{
+  font-size: 2rem;
+  font-family: 'Tourney', cursive;
+}
+.sk{
+  text-align: center;
+  padding: 5%;
+
+}
+.skill_image{
+  width: 30%;
+  margin: 10%;
+}
+h2{
+padding-top: 5%;
+font-family: 'Alfa Slab One', cursive;
+}
+.navbar{
+  font-size: 20px;
+  padding: 0;
+  background-color: #88FFF7;
+
+
+}
+.navbar-brand{
+  font-size: 30px;
+    font-family: 'Montserrat Alternates', sans-serif;
+
+    padding-left: 2%;
+    color: white;
+
+
+}
+.nav-item{
+  padding: 0px 18px;
+  color: white;
+}
+
+.branding{
+  color: white;
+}
+.end1{
+background-color: #88FFF7;
+text-align: center;
+background-color: #88FFF7;
+padding: 0;
+}
+
+.end2{
+
+
+}
+.hobbies{
+  width:20%;
+  padding: 2rem;
+}
+.details{
+  width:20%;
+}
+h2{
+  margin-bottom: 4%;
+}
+h4{
+  padding-top: 1%;
+  padding-bottom: 14%;
+}
